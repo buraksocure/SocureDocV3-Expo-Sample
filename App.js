@@ -38,7 +38,7 @@ export default function App() {
         title="Launch Socure DocV"
         onPress={() => {
           launchSocureDocV(
-            '6c5f08ad-6d12-4a79-b272-0abb26d9a053',
+            'SDK_KEY',
             undefined,
             successCallback,
             errorCallback,
